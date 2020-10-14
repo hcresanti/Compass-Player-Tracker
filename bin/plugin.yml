@@ -1,0 +1,9 @@
+main: main.Main
+name: MyPlugin
+version: 1.0
+author: McMuffindude
+description: Compass Player Tracker
+
+commands:
+ tracker:
+ track: 
